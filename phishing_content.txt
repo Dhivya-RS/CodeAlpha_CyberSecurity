@@ -1,0 +1,37 @@
+PHISHING AWARENESS TRAINING
+
+1. Introduction
+Phishing is a cyber attack where attackers try to steal sensitive information such as usernames, passwords, bank details, or personal data by pretending to be a trusted source.
+
+2. Common Types of Phishing
+- Email Phishing: Fake emails asking users to click links or download attachments
+- Spear Phishing: Targeted phishing attack on a specific person or organization
+- Smishing: Phishing through SMS messages
+- Vishing: Phishing through voice calls
+
+3. How to Identify Phishing
+- Suspicious sender email address
+- Urgent or threatening language
+- Spelling and grammar mistakes
+- Unknown links or attachments
+- Requests for personal or financial information
+
+4. Example of a Phishing Email
+Subject: Urgent! Your bank account will be blocked
+Message: Click the link below immediately to verify your account and avoid suspension.
+
+Warning Signs:
+- Creates fear and urgency
+- Asks to click a suspicious link
+- Pretends to be from a bank
+
+5. Prevention Tips
+- Do not click unknown links
+- Verify sender email addresses
+- Enable two-factor authentication
+- Keep software updated
+- Never share passwords
+- Report suspicious emails
+
+6. Conclusion
+Phishing attacks are very common, but users can stay safe by being alert, checking links carefully, and avoiding suspicious messages.

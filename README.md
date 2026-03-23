@@ -1,30 +1,38 @@
-# Basic Network Sniffer
+# Phishing Awareness Training
 
 ## Project Overview
-This project is a simple Python-based network sniffer created for the CodeAlpha Cyber Security Internship.
+This project was created as part of the CodeAlpha Cyber Security Internship to spread awareness about phishing attacks and safe online practices.
 
-It captures network packets from the system and displays important packet details such as:
-- Source IP Address
-- Destination IP Address
-- Protocol
-- Header Length
-- TTL
+The training material explains:
+- What phishing is
+- Common types of phishing attacks
+- How to identify phishing emails and fake websites
+- Best practices to stay safe online
 
-## Features
-- Captures live network packets
-- Identifies TCP, UDP, and ICMP protocols
-- Displays source and destination IP addresses
-- Shows IP header information
+## Topics Covered
+- Email phishing
+- Spear phishing
+- Smishing
+- Vishing
+- Signs of phishing attempts
+- Prevention tips
 
-## Technologies Used
-- Python
-- Socket Programming
-- Struct Module
+## Project Files
+This project may include:
+- Training presentation
+- Awareness content
+- Sample phishing examples
+- Quiz questions
 
-## How to Run
-1. Open Command Prompt as Administrator
-2. Go to the project folder
-3. Run the command:
+## Objective
+The main objective of this project is to educate users about phishing threats and help them recognize suspicious online activities.
 
-```bash
-python network_sniffer.py
+## Learning Outcomes
+Through this project, I learned:
+- Different phishing attack methods
+- How attackers trick users
+- Ways to identify suspicious emails and links
+- Importance of cybersecurity awareness
+
+## Author
+Dhivya

@@ -1,0 +1,31 @@
+PHISHING AWARENESS QUIZ
+
+1. What is phishing?
+a) A gaming attack
+b) A cyber attack to steal sensitive information
+c) A file compression method
+Answer: b
+
+2. Which of the following is a sign of a phishing email?
+a) Trusted sender address
+b) Proper grammar always
+c) Urgent message asking for personal details
+Answer: c
+
+3. What should you do before clicking a link in an email?
+a) Click immediately
+b) Ignore the sender
+c) Verify the link and sender
+Answer: c
+
+4. What is smishing?
+a) Phishing through SMS
+b) Phishing through video
+c) Phishing through printer
+Answer: a
+
+5. What is one good way to stay safe from phishing?
+a) Share passwords
+b) Enable two-factor authentication
+c) Click unknown attachments
+Answer: b
